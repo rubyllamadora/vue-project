@@ -1,0 +1,19 @@
+{
+  "$schema": "https://shadcn-vue.com/schema.json",
+  "style": "default",
+  "typescript": true,
+  "tailwind": {
+    "config": "",
+    "css": "src/assets/style.css",
+    "baseColor": "slate",
+    "cssVariables": false,
+    "prefix": ""
+  },
+  "aliases": {
+    "components": "@/src/components",
+    "utils": "@src/utils",
+    "composables": "@/src/composables",
+    "lib": "@/src/lib"
+  },
+  "iconLibrary": "lucide"
+}
